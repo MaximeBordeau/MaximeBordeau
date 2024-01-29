@@ -1,4 +1,16 @@
-### Hi there 👋
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt0Y3R3c29xcTFvMjh4azkzcmJ5YTIwamFjZm50a3Y4eWRvd3NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkSNiskWVZPocqnBvp/giphy.gif" alt="coucou" width="50px" />  I'm Maxime ! </h1>
+
+<br>
+<ul>
+  <li>🖥️ See my portfolio at <a href="https://maximebordeau.com/">Portfolio<a/> </li>
+  <li>🚀 Front-end development with a focus on web accessibility</li>
+  <li>🤝 Open to collaborating on exciting developer projects 😁</li>
+   <li>🧠 Always learning !</li>
+</ul>
+
+
+ 
+
 
 <!--
 **MaximeBordeau/MaximeBordeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
