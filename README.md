@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=245BF7&vCenter=true&repeat=false&random=false&width=435&lines=A+passionate+%26+thorough+web+developer+!)](https://git.io/typing-svg)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=245BF7&vCenter=true&repeat=false&random=false&width=435&lines=A+passionate+%26+thorough+web+developer+!" alt="Typing SVG" /></a>
 
 <br>
 <ul>
