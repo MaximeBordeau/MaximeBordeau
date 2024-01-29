@@ -2,7 +2,7 @@
 
 <br>
 <ul>
-  <li>🖥️ See my portfolio at <a href="https://maximebordeau.com/">Portfolio<a/> </li>
+  <li>🖥️ See my portfolio at <a href="https://maximebordeau.com/">MaximeBordeau.com<a/> </li>
   <li>🚀 Front-end development with a focus on web accessibility</li>
   <li>🤝 Open to collaborating on exciting developer projects 😁</li>
    <li>🧠 Always learning !</li>
